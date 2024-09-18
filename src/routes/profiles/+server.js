@@ -47,7 +47,7 @@ const profiles = [
     age: 29,
     bio: "Artist and nature lover",
     photo:
-      "https://img.freepik.com/free-photo/serious-lovely-woman-student-in-spectacles-keeps-hands-folded-listenes-attentively-professor-s-lecture-wears-elegant-shirt_273609-16914.jpg?size=626&ext=jpg&ga=GA1.1.843874631.1726601117&semt=ais_hybrid",
+      "https://img.freepik.com/premium-photo/lifestyle-delivery-courier_23-2151602278.jpg?size=626&ext=jpg",
   },
   {
     id: 7,
@@ -77,7 +77,7 @@ const profiles = [
     id: 10,
     name: "Julia",
     age: 24,
-    bio: "Student and part-time model",
+    bio: "A transgender student and part-time model",
     photo:
       "https://img.freepik.com/free-photo/indoor-portrait-of-bearded-young-man-with-trendy-hairstyle_273609-3903.jpg?size=626&ext=jpg&ga=GA1.1.843874631.1726601117&semt=ais_hybrid",
   },
