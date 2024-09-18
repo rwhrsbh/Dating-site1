@@ -14,7 +14,7 @@
     
     onMount(async () => {
       try {
-        const response = await fetch('/profiles');
+        const response = await fetch('https://nodejs-serverless-function-express-teal-iota.vercel.app/api/hello');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
